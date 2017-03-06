@@ -1,5 +1,5 @@
 # ee241b-project
-This is the web stie for the EE241B project by Donggyu Kim and Vighnesh Iyer.
+This is the website for the EE241B project by Donggyu Kim and Vighnesh Iyer.
 The goal is to develop the power models for any RTL designs.
 
 * Proposal: [proposal.pdf](proposal.pdf)
